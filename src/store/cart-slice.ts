@@ -46,3 +46,5 @@ export const cartSlice = createSlice({
     },
   },
 })
+
+export const cartActions = cartSlice.actions
